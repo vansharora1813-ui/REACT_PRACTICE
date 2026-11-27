@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <!-- Outer rounded square background -->
+  <rect x="2" y="2" width="44" height="44" rx="10" ry="10" fill="#1a1a1a"/>
+
+  <!-- Left bold slab (like LC's left thick bar) -->
+  <rect x="8" y="10" width="7" height="28" rx="2" fill="#FFA116"/>
+
+  <!-- Top diagonal slash bar -->
+  <rect
+    x="17" y="8" width="6" height="20"
+    rx="2" fill="#FFA116"
+    transform="rotate(28 20 18)"
+  />
+
+  <!-- Bottom horizontal bar -->
+  <rect x="17" y="32" width="22" height="6" rx="2" fill="#FFA116"/>
+
+  <!-- Small accent dot top-right -->
+  <circle cx="39" cy="11" r="3" fill="#FFB84D"/>
+</svg>
+
